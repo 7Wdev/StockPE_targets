@@ -16,11 +16,16 @@ Server\plugins\StockPE_targets.phar
 ```
 3-enjoy !
 (@p - nearest player
+
 @s - yourself
+
 @r - random player
+
 @e - entities
+
 @a - all players
-/rm@e - reduce lag) !
+
+/rm@e - reduce lag)
 * [POGGIT](#) - plugin installing link from poggit !
 
 
