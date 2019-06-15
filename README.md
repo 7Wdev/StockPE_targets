@@ -5,6 +5,7 @@
 
 #### How To Use?
 1-just install the plugin from poggit (also if you want you can install it from github) !
+
 2-put this plugin in the plugins folder :
 ```
 Server\plugins\StockPE_targets.phar
