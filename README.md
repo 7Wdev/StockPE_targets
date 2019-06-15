@@ -15,6 +15,7 @@ Server\plugins\StockPE_targets.phar
               _________________
 ```
 3-enjoy !
+
 (@p - nearest player
 
 @s - yourself
@@ -26,10 +27,13 @@ Server\plugins\StockPE_targets.phar
 @a - all players
 
 /rm@e - reduce lag)
+
 * [POGGIT](#) - plugin installing link from poggit !
 
 
 #### Info
 plugin developed by : 7awariGamer[7Wdev] !
+
 this is a free plugin for all pmmp users !
+
 it is working with 3.0.0 api !
