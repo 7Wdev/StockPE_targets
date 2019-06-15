@@ -1,0 +1,7 @@
+# Config v1
+# CopyRights - StockPE
+# You can change the dump method from her to solve nametags problems!
+# Dont keep this empty !
+# Dont put spaces!
+# Edit :
+dump: "✿"
