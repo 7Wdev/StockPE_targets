@@ -28,7 +28,7 @@ Server\plugins\StockPE_targets.phar
 
 /rm@e - reduce lag)
 
-* [POGGIT](#) - plugin installing link from poggit !
+* [POGGIT](https://poggit.pmmp.io/p/StockPE_targets/0.3.4-beta) - plugin installing link from poggit !
 
 
 #### Info
