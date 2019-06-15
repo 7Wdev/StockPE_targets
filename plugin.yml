@@ -1,0 +1,18 @@
+name: StockPE_targets
+main: StockPE\MCBE\Vanilla
+version: 034beta
+api: [3.0.0]
+author: 7awariGamer(7Wdev)   #this plugin developed by StockPE owner!
+                             #this plugin forked from bukkit!
+                             #have fun with running targets features in your pmmp server!
+description: Vanilla features for pmmp!
+
+commands:
+  rm@e:
+    description: kill all entities!
+    usage: "/rm@e"
+    permission: pocketmine.command.kill.other
+permissions:
+  pocketmine.command.kill.other:
+    description: "/rm@e"
+    default: op
