@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/7Wdev/StockPE_targets
+branches:
+- master
+projects:
+  StockPE_targets:
+    path: ""
+...
