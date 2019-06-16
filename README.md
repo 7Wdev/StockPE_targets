@@ -4,7 +4,7 @@
 ## ! WELCOME FROM 7WDEV(StockPE owner) !
 
 #### How To Use?
-1-just install the plugin from poggit (also if you want you can install it from github) !
+1-just install the plugin from stockpe (also if you want you can install it from github) !
 
 2-put this plugin in the plugins folder :
 ```
@@ -28,7 +28,7 @@ Server\plugins\StockPE_targets.phar
 
 /rm@e - reduce lag)
 
-* [POGGIT](https://poggit.pmmp.io/p/StockPE_targets/0.3.4-beta) - plugin installing link from poggit !
+* [StockPE](#) - plugin installing link from stockpe !
 
 
 #### Info
